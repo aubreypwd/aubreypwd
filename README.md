@@ -6,7 +6,7 @@ __________________
 
 ## 1.0.0
 
-### [General](/aubreypwd/aubreypwd/labels/general)
+### [General](https://github.com/aubreypwd/aubreypwd/labels/general)
 
 - 36 years old
 - Could be a kinder person
@@ -15,7 +15,7 @@ __________________
 - Bouts of depression & frustration
 - OCD tendancies (stress when things aren't the way I want them to be)
 
-### [Philosophy](/aubreypwd/aubreypwd/labels/philosophy)
+### [Philosophy](https://github.com/aubreypwd/aubreypwd/labels/philosophy)
 
 - Practicing Stoicism for over `~2+` years; moved from Buddhism
 - Have developed a pretty good base of knowledge about it
@@ -25,13 +25,13 @@ __________________
 - Would like to improve meditation practices
 - Reduce attachments
 
-### [Minimalism](/aubreypwd/aubreypwd/labels/minimalism)
+### [Minimalism](https://github.com/aubreypwd/aubreypwd/labels/minimalism)
 
 - Aspiring minimalist
 - Wear the same 5 shirts to reduce stress around fashion
 - Somewhat reduction in un-necessary posessions, but could do more
 
-### [Health](/aubreypwd/aubreypwd/labels/health)
+### [Health](https://github.com/aubreypwd/aubreypwd/labels/health)
 
 - `~260lbs`
 - Overweight
@@ -40,13 +40,13 @@ __________________
 - Binge eating problems
 - Could be "happier"
 
-### [Wealth](/aubreypwd/aubreypwd/labels/money)
+### [Wealth](https://github.com/aubreypwd/aubreypwd/labels/money)
 
 - Currently "doing Dave Ramsey" plan and out of debt, have an emergency fund setup
 - Finally starting to save for retirement, but still confused about a lot of things
 - Not yet saving 15% of income
 
-### [Career](/aubreypwd/aubreypwd/labels/career)
+### [Career](https://github.com/aubreypwd/aubreypwd/labels/career)
 
 - WordPress Developer, actually got my "dream job"
 - Love the people I work with
