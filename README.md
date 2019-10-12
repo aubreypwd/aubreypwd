@@ -15,15 +15,12 @@ __________________
 - Bouts of depression & frustration
 - OCD tendancies (stress when things aren't the way I want them to be)
 
-### [Stoicism](labels/stoicism)
+### [Philosophy](labels/philosophy)
 
-- Practicing Soticism for over `~2+` years, moved from Buddhism
+- Practicing Stoicism for over `~2+` years; moved from Buddhism
 - Have developed a pretty good base of knowledge about it
 - Feel I miss the mark and fail as a Stoic, primarily failing in the realms of temperance
 - Would like to develop more practice over learning
-
-### [Buddhism](labels/buddhism)
-
 - Still keep around aspects of [buddhism](labels/buddhism) around after leaving for Stoicism
 - Would like to improve meditation practices
 - Reduce attachments
